@@ -1,3 +1,3 @@
 # ENGR 120 Lab Section
 
-This is code from my ENGR 120 labs. If you are taking this course right now, avert your eyes. If not, enjoy some overly commented code.
+This is code from my ENGR 120 labs. Unfortunately this project was cancelled due to COVID-19, so this code is not in a finished state.
